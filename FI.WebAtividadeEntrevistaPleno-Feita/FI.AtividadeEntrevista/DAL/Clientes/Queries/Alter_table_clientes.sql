@@ -1,0 +1,1 @@
+﻿alter table dbo.CLIENTES add CPF varchar(11) not null;

@@ -1,0 +1,42 @@
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojResolveAssemblyReference.cache
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\guilh\Documents\Teste-FunçãoSistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
