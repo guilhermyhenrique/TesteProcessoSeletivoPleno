@@ -14,6 +14,7 @@ $(document).ready(function () {
         $('#formCadastro #Telefone').val(obj.Telefone);
         $('#formCadastro #Cpf').val(obj.Cpf);
         idCliente = obj.Id;
+        IdBeneficiario = 0;
         GetData();
     }
 
@@ -109,15 +110,29 @@ function GetData () {
     });
 }
 
+function DeleteBeneficiario(bnf) {
+    $.ajax({
+        url: '/Beneficiario/Deletar',
+        method: "DELETE",
+        data: {
+            id: bnf 
+        },
+        success:
+            function (r) {
+                updateTable(r)
+            }
+    });
+}
+
 
 function updateTable(jsonData) {
         $.each(jsonData, function (key, val) {
             var tr = '<tr id="tablerow' + counter + '">';
-            tr += '<td>' + val.Id + '</td>';
+            tr += '<td style="display:none;" >' + val.Id + '</td>';
             tr += '<td>' + val.Cpf + '</td>';
             tr += '<td>' + val.Nome + '</td>';
-            tr += '<td>' + '<button type="button" class="btn btn-primary" onclick="editarTr(' + counter + ');">Alterar</button>' + '</td>';
-            tr += '<td>' + '<button type="button" class="btn btn-primary" onclick="removeTr(' + counter + ');">Excluir</button>' + '</td>';
+            tr += '<td>' + '<button type="button" class="btn btn-primary" onclick="editarTr(' + val.Id + ' , ' + counter + ');">Alterar</button>' + '</td>';
+            tr += '<td>' + '<button type="button" class="btn btn-primary" onclick="removeTr(' + val.Id + ', ' + counter + ');">Excluir</button>' + '</td>';
             tr += '</tr>';
             $('tbody').append(tr);
             counter++;
@@ -130,16 +145,16 @@ function updateTable(jsonData) {
 $(function () {
     $('#AddBnf').click(function () {
         $('<tr id="tablerow' + counter + '">' +
-            '<td> '+ IdBeneficiario + '</td>' +
+            '<td style="display:none;" > '+ IdBeneficiario + '</td>' +
             '<td>' + $('#CpfBnf').val() +
             '</td>' +
             '<td>' + $('#NomeBnf').val() +
             '</td>' +
             '<td>' +
-            '<button type="button" class="btn btn-primary" onclick="editarTr(' + counter + ');">Alterar</button>' +
+            '<button type="button" class="btn btn-primary" onclick="editarTr(' + IdBeneficiario + ' , ' + counter + ');">Alterar</button>' +
             '</td>' +
             '<td>' +
-            '<button type="button" class="btn btn-primary" onclick="removeTr(' + counter + ');">Excluir</button>' +
+            '<button type="button" class="btn btn-primary" onclick="removeTr(' + IdBeneficiario + ' , ' + counter + ');">Excluir</button>' +
             '</td>' +
             '</tr>').appendTo('#submissionTable tbody');
         counter++;
@@ -150,7 +165,10 @@ $(function () {
     });
 });
 
-function removeTr(index) {
+function removeTr(id, index) {
+    if (id > 0) {
+        DeleteBeneficiario(id);
+    }
     if (counter > 1) {
         $('#tablerow' + index).remove();
         counter--;
@@ -158,12 +176,12 @@ function removeTr(index) {
     return false;
 }
 
-function editarTr(index) {
+function editarTr(id, index) {
     if (counter > 1) {
         $('#tablerow' + index).each(function () {
             $('#CpfBnf').val($(this).find("td:nth-child(2)").text())
             $('#NomeBnf').val($(this).find("td:nth-child(3)").text())
-            IdBeneficiario = $(this).find("td:nth-child(1)").text()
+            IdBeneficiario = id
             $('#tablerow' + index).remove();
         })
         counter--;

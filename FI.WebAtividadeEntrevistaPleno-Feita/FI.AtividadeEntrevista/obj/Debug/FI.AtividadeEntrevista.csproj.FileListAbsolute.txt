@@ -36,7 +36,6 @@ C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtivid
 C:\Users\guilh\Documents\Teste-FunçãoSistema\New Função sistema\FI.WebAtividadeEntrevistaFeito\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
 C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
 C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
-C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
 C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
 C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
 C:\TestePleno\FI.WebAtividadeEntrevistaPleno-Feita\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb

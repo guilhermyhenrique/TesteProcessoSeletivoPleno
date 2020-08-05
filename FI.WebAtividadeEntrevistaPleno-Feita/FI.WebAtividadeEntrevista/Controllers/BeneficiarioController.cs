@@ -142,7 +142,7 @@ namespace WebAtividadeEntrevista.Controllers
             BoBeneficiario bob = new BoBeneficiario();
             bob.Excluir(id);
 
-            return Json("Exxluido! com sucesso");
+            return Json("");
         }
     }
 }

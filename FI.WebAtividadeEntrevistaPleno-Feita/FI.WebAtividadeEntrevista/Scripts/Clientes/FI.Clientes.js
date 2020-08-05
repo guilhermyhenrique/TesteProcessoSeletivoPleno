@@ -42,7 +42,7 @@ function tableToJson() {
         $cells = $(this).find("td");
         beneficiarios[index] = {};
         $cells.each(function (cellIndex) {
-            if (cellIndex <= 1) {
+            if (cellIndex <= 2) {
                 beneficiarios[index][$($headers[cellIndex]).html()] = $(this).html();
             }
         });
@@ -78,6 +78,7 @@ var counter = 1;
 $(function () {
     $('#AddBnf').click(function () {
         $('<tr id="tablerow' + counter + '">' +
+            '<td style="display:none;" >0</td>' +
             '<td>' + $('#CpfBnf').val() +
             '</td>' +
             '<td>' + $('#NomeBnf').val() +
@@ -107,8 +108,8 @@ function removeTr(index) {
 function editarTr(index) {
     if (counter > 1) {
         $('#tablerow' + index).each(function () {
-            $('#CpfBnf').val( $(this).find("td:nth-child(1)").text())
-            $('#NomeBnf').val($(this).find("td:nth-child(2)").text())
+            $('#CpfBnf').val( $(this).find("td:nth-child(2)").text())
+            $('#NomeBnf').val($(this).find("td:nth-child(3)").text())
             $('#tablerow' + index).remove();
         })
         counter--;

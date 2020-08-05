@@ -6,6 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using FI.AtividadeEntrevista.DML;
+using System.Text.RegularExpressions;
 
 namespace WebAtividadeEntrevista.Controllers
 {
@@ -70,7 +71,7 @@ namespace WebAtividadeEntrevista.Controllers
                 {
                     Beneficiario beneficiario = new Beneficiario()
                     {
-                        Cpf = beneficiarioModel.Cpf,
+                        Cpf = beneficiarioModel.Cpf.Replace(".", string.Empty).Replace("-", string.Empty),
                         Nome = beneficiarioModel.Nome
                     };
                     cliente.Beneficiarios.Add(beneficiario);
@@ -131,7 +132,7 @@ namespace WebAtividadeEntrevista.Controllers
                     Beneficiario beneficiario = new Beneficiario()
                     {   
                         Id = beneficiarioModel.Id,
-                        Cpf = beneficiarioModel.Cpf,
+                        Cpf = beneficiarioModel.Cpf.Replace(".", string.Empty).Replace("-", string.Empty),
                         Nome = beneficiarioModel.Nome
                     };
                     cliente.Beneficiarios.Add(beneficiario);
